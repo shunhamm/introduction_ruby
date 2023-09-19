@@ -1,5 +1,3 @@
-# !ruby
-
 def hear_document
   <<-TEXT
     これはヒアドキュメントのテストコードです。
